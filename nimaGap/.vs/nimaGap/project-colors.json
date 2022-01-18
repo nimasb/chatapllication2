@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "422f01ea-11e0-472d-8052-efabb2dc0722": {
+      "ProjectGuid": "422f01ea-11e0-472d-8052-efabb2dc0722",
+      "DisplayName": "nimaGap_server",
+      "ColorIndex": 0
+    },
+    "85ca81a2-6820-493e-b225-55c1dedd780e": {
+      "ProjectGuid": "85ca81a2-6820-493e-b225-55c1dedd780e",
+      "DisplayName": "nimaGap_client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

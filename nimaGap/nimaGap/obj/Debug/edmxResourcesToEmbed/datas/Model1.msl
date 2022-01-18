@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="nimaGapModelStoreContainer" CdmEntityContainer="DB">
+    <EntitySetMapping Name="newsetting_tbl">
+      <EntityTypeMapping TypeName="nimaGapModel.newsetting_tbl">
+        <MappingFragment StoreEntitySet="newsetting_tbl">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="settings_port" ColumnName="settings_port" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user_tbl">
+      <EntityTypeMapping TypeName="nimaGapModel.user_tbl">
+        <MappingFragment StoreEntitySet="user_tbl">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="userport" ColumnName="userport" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

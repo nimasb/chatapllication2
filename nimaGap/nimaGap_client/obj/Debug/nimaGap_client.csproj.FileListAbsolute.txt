@@ -1,0 +1,13 @@
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\bin\Debug\nimaGap_client.exe.config
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\bin\Debug\nimaGap_client.exe
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\bin\Debug\nimaGap_client.pdb
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\bin\Debug\SimpleTcp.dll
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\bin\Debug\SimpleTcp.xml
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.home.resources
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.Properties.Resources.resources
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.csproj.GenerateResource.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.csproj.CoreCompileInputs.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.csproj.CopyComplete
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.exe
+C:\Users\nima\source\repos\nimaGap\nimaGap_client\obj\Debug\nimaGap_client.pdb

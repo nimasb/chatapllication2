@@ -1,0 +1,17 @@
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\nimaGap.exe.config
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\nimaGap.exe
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\nimaGap.pdb
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\SimpleTcp.dll
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\SimpleTcp.xml
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap.home.resources
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap.Properties.Resources.resources
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap_server.csproj.GenerateResource.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap_server.csproj.CoreCompileInputs.cache
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap_server.csproj.CopyComplete
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap.exe
+C:\Users\nima\source\repos\nimaGap\nimaGap\obj\Debug\nimaGap.pdb
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\EntityFramework.dll
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\EntityFramework.xml
+C:\Users\nima\source\repos\nimaGap\nimaGap\bin\Debug\EntityFramework.SqlServer.xml
